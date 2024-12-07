@@ -29,7 +29,7 @@ I'm a second-year Computer Science Engineering student at Graphic Era Hill Unive
 
 ### 📬 How to Reach Me
 - **Email:** bhaveshtripathi3112@gmail.com
-- **LinkedIn:** [Bhavesh Tripathi](https://www.linkedin.com/in/bhavesh-tripathi)
+- **LinkedIn:** [Bhavesh Tripathi](https://www.linkedin.com/in/bhavesh-tripathi-a69483309/)
 - **GitHub:** [bhaveshTripathi3112](https://github.com/bhaveshTripathi3112)
 
 ### ⚡ Fun Fact
