@@ -17,15 +17,6 @@ Hi, I’m Bhavesh Tripathi, a third-year B.Tech Computer Science student at Grap
 - **Developer Tools:** Visual Studio Code
 - **Soft Skills:** Quick Learner, Problem Solver, Leadership, Teamwork, Time Management
 
-### 📂 Projects
-- **Merkelsim Currency Exchange Simulator** 
-  - **Tech Stack:** C++
-  - Created an object-oriented application with a matching engine for buy/sell orders and trading analytics.
-  - Integrated real-time currency conversion algorithms for an enhanced trading experience.
-- **Task Manager**
-  - **Tech Stack:** HTML5, CSS3, JavaScript
-  - Developed a task management website with features like task creation, editing, and deadline monitoring, used by 200+ users.
-  - Focused on delivering a user-friendly interface and efficient task management solutions.
 
 ### 📬 How to Reach Me
 - **Email:** bhaveshtripathi3112@gmail.com
