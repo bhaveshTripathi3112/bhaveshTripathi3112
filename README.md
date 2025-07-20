@@ -13,7 +13,7 @@ I'm a second-year Computer Science Engineering student at Graphic Era Hill Unive
 - **Programming Languages:**
 - Proficient: Python, C++, JavaScript
 - Familiar: C, Java
-- **Web Technologies:** HTML5, CSS3
+- **Web Technologies:** HTML5, CSS3, React.js, Express.js, Node.js
 - **Developer Tools:** Visual Studio Code
 - **Soft Skills:** Quick Learner, Problem Solver, Leadership, Teamwork, Time Management
 
